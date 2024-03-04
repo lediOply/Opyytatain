@@ -1,0 +1,25 @@
+{
+  "name": "opyytatain",
+  "version": "1.0.0",
+  "description": "An opinionated JavaScript utility library",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lediOply/Opyytatain.git"
+  },
+  "author": "lediOply",
+  "license": "MIT",
+  "keywords": [
+    "utility",
+    "library",
+    "javascript"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {}
+}
